@@ -88,5 +88,5 @@ Carro.listar_carros()
 print("\n--- Lista de Restaurantes ---")
 Restaurante.listar_restaurantes()
 
-print("\n--- Cliente ---")
+print("\n--- Clientes ---")
 Cliente.listar_clientes()
